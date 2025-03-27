@@ -9,7 +9,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Send funds, abeg",
-  description: "2k is okay, but you can send more You know the Vibe!",
+  description: "2k is okay, but you can send more You know the Vibe! lol",
 };
 
 export default function RootLayout({
