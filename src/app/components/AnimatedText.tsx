@@ -85,9 +85,9 @@ title="I don't take no for an answer"
       />
 
       <p className="absolute bottom-4">
-        with ❤️ and sapa. {""}
+        with ❤️ and sapa By Vicky & datechroacle but reinvented by Pascal Tombere. {""}
         <a
-          href="https://github.com/victorola-coder/send-funds"
+          href="https://github.com/pascal-tombere/abeg-send-funds"
           className="text-blue-300"
         >
           Repo
